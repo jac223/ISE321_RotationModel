@@ -5,7 +5,7 @@
 def dataValidation(dict):
 
     people = dict['people']
-    year = dict['year'] ##Josie added
+    # year = dict['year'] ##Josie added
     rotations =  dict['rotations']
     blocks = dict['blocks']
     priority  = dict['priority'] 
